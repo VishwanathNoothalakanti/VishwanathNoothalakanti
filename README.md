@@ -34,6 +34,7 @@
 ###
 
 <ins><h3 align="left">Achievements:</h3></ins>
+
 <p align="left">I worked on WorkMarket (a US-based freelancing app), helping cut onboarding time by nearly 50% by implementing bank prenotes in a Spring service, which accelerated worker verification and improved conversion rates.<br><br>Automated resolution of payment/withdrawal production incidents for WorkMarket (ADP), replacing manual, error-prone steps with Spring Boot services and REST APIs.</p>
 
 ###
@@ -43,9 +44,21 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+   <img src="https://img.shields.io/badge/Java-e3ae26?logo=Java&logoColor=white&style=for-the-badge" height="30" alt="Java logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="30" alt="spring logo"  />
+  <img src="https://img.shields.io/badge/SpringBoot-c8e953?logo=Java&logoColor=white&style=for-the-badge" height="30" alt="Java logo"  />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/JPA-537de9?logo=Java&logoColor=white&style=for-the-badge" height="30" alt="Java logo"  />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Hibernate-e9537d?logo=Java&logoColor=white&style=for-the-badge" height="30" alt="Java logo"  />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Restful APIs-f9ccd9?logo=Java&logoColor=white&style=for-the-badge" height="30" alt="Java logo"  />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/JSON-ccd9f9?logo=Java&logoColor=white&style=for-the-badge" height="30" alt="Java logo"  />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Junit-189fc4?logo=Java&logoColor=white&style=for-the-badge" height="30" alt="Java logo"  />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Mockito-ce8e98?logo=Java&logoColor=white&style=for-the-badge" height="30" alt="Java logo"  />
   <img width="8" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
   <img width="8" />
@@ -62,9 +75,8 @@
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonwebservices&logoColor=FF9900&style=for-the-badge" height="30" alt="amazonwebservices logo"  />
   <img width="8" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="30" alt="docker logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="30" alt="jenkins logo"  />
-  <img width="10" />
+<img width="8" />
+  <img src="https://img.shields.io/badge/Jenkins-c41849?logo=docker&logoColor=white&style=for-the-badge" height="30" alt="docker logo"  />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
   <img width="10" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
@@ -78,6 +90,8 @@
   <img src="https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white&style=for-the-badge" height="30" alt="confluence logo"  />
   <img width="8" />
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?logo=intellijidea&logoColor=white&style=for-the-badge" height="30" alt="intellij logo"  />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Agile-98ce8e?logo=Java&logoColor=white&style=for-the-badge" height="30" alt="Java logo"  />
 </div>
 
 ###
@@ -93,4 +107,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/VishwanathNoothalakanti/VishwanathNoothalakanti/output/snake.svg" alt="Snake animation" />
+
 ###
