@@ -29,13 +29,13 @@
 
 ###
 
-<p align="left">Hi, I’m Vishwanath Noothalakanti, a full-stack developer focused on Java/Spring Boot and React. I have experience building back-end services, designing REST APIs, working with JPA/Hibernate and MySQL, and shipping end-to-end features on AWS with CI/CD. I also have strong observability experience with Datadog, Splunk, and OpsGenie.</p>
+<p align="left">Hi, I’m Vishwanath Noothalakanti, a Senior full-stack developer focused on Java/Spring Boot, Angular and React. I have experience building back-end services, designing REST APIs, working with JPA/Hibernate and MySQL, and shipping end-to-end features on AWS with CI/CD. I also have strong observability experience with Datadog, Splunk, and OpsGenie.</p>
 
 ###
 
 <ins><h3 align="left">Achievements:</h3></ins>
 
-<p align="left">I worked on WorkMarket (a US-based freelancing app), helping cut onboarding time by nearly 50% by implementing bank prenotes in a Spring service, which accelerated worker verification and improved conversion rates.<br><br>Automated resolution of payment/withdrawal production incidents for WorkMarket (ADP), replacing manual, error-prone steps with Spring Boot services and REST APIs.</p>
+<p align="left">I worked on helping cut onboarding time by nearly 50% by implementing bank prenotes in a Spring service, which accelerated worker verification and improved conversion rates.<br><br>Automated resolution of payment/withdrawal production incidents for UBS, replacing manual, error-prone steps with Spring Boot services and REST APIs.</p>
 
 ###
 
