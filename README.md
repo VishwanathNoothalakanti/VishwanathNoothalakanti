@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">Hi, I’m Vishwanath Noothalakanti, a Senior Full Stack Java developer focused on Java/Spring Boot, Angular and React. I have experience building back-end services, designing REST APIs, working with JPA/Hibernate and MySQL, and shipping end-to-end features on AWS with CI/CD. I also have strong observability experience with Datadog, Splunk, and OpsGenie.</p>
+<p align="left">Hi, I’m Vishwanath Noothalakanti, a Senior Java Full Stack developer focused on Java/Spring Boot, Angular and React. I have experience building back-end services, designing REST APIs, working with JPA/Hibernate and MySQL, and shipping end-to-end features on AWS with CI/CD. I also have strong observability experience with Datadog, Splunk, and OpsGenie.</p>
 
 ###
 
